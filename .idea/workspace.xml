@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e076be-78c4-4ce4-b77e-16453e85748a" name="变更" comment="多态的练习">
-      <change afterPath="$PROJECT_DIR$/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
-    </list>
+    <list default="true" id="56e076be-78c4-4ce4-b77e-16453e85748a" name="变更" comment="多态的练习" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,11 +55,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672914373376</updated>
-      <workItem from="1672914793875" duration="958000" />
+      <workItem from="1672914793875" duration="1773000" />
     </task>
+    <task id="LOCAL-00001" summary="多态的练习">
+      <created>1672916896019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672916896019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="多态的练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="多态的练习" />
   </component>
 </project>
